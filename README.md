@@ -6,10 +6,12 @@ This project deals with neural text classification using PyTorch. Text classific
 ## Dataset used: 
 AG_NEWS 
 
-## How to run the project
+## How to run the project:
 * There are three jupyter files.
-* Each file contains a classifer as per the name of the file.
 * Open the file using google colab or VScode.
+* Each file contains a classifer as per the name of the file.
+* Prefereably start with the Linear_Model.ipynb
+* With eventual complexities: Open Bidirectional_LSTM_Model.ipynb and Dempster_Shafer_Combination_Rule.ipynb
 * Each file contains detailed clear description of each step performed and packages to install(if any)
 
 
